@@ -11,6 +11,7 @@
 ### Vida profissional 💻
 - Comecei a estudar <strong>Programação</strong> em <strong>maio de 2022</strong>.
 - Estou estudando sobre <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>.
+- Minhas experiências no <strong>LinkedIn</strong> (https://www.linkedin.com/in/miishiyama/)
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=miishiyama&theme=jolly" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api?username=miishiyama&count_private=true&show_icons=true&theme=jolly" width="48%" />
