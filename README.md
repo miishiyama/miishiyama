@@ -4,7 +4,7 @@
 ###  Sobre mim 💖
 - Me chamo <strong>Millene Eduarda Ishiyama</strong>. <br>
 - Tenho <strong>18 anos</strong>. <br>
-- Moro em <strong>São José dos Campos</strong>. <br>
+- Moro em <strong>São José dos Campos - São Paulo (Brasil)</strong>. <br>
 - No <strong>Ensino Fundamental</strong> estudei na <strong>E.M.E.F. Profª Jacyra Vieira Baracho</strong>. <br>
 - No <strong>Ensino Médio</strong> estudei no <strong>Colégio Embraer Juarez Wanderley</strong> com <strong>bolsa integral</strong>.
 
