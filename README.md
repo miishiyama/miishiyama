@@ -1,6 +1,6 @@
 ## 🌟 Sejam muito bem-vindos ao meu GitHub! 🌟
 
-<img align="right" src="https://instagram.fsjk2-1.fna.fbcdn.net/v/t51.2885-19/273947392_307566021405082_6254781734085872820_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fsjk2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=ZmkEZQL8-aoAX9RyiP7&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBm7wwxwa3l3vBwAfXC1pU_2aLrSD2Dj5t3NFtcaKEDCg&oe=63662D06&_nc_sid=8fd12b" width="25%" />
+<img align="right" src="https://avatars.githubusercontent.com/u/105028640?v=4" width="25%" />
 
 ###  Sobre mim 💖
 - Me chamo <strong>Millene Eduarda Ishiyama</strong>. <br>
