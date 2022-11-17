@@ -22,10 +22,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miishiyama&layout=compact&theme=jolly" width="48%" />
 
 ### Tecnologias 🚀
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-
-### Estudando ✍🏻
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div>
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="3%" />
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="3%" />
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="3%" />
+</div>
