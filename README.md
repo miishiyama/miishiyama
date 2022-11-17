@@ -23,7 +23,7 @@
 
 ### Tecnologias 🚀
 <div>
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="3%" />
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="3%" />
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="3%" />
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="4%" />
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="4%" />
+  <img align="center" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="4%" />
 </div>
