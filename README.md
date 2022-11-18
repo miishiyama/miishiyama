@@ -22,8 +22,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miishiyama&layout=compact&theme=jolly" width="48%" />
 
 ### Tecnologias 🚀
-<div>
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="4%" />
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="4%" />
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="4%" />
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3")
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
