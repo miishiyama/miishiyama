@@ -1,17 +1,16 @@
 ## 🌟 Sejam muito bem-vindos ao meu GitHub! 🌟
-
 <img align="right" src="https://avatars.githubusercontent.com/u/105028640?v=4" width="25%" />
 
 ###  Sobre mim 💖
-- Me chamo <strong>Millene Eduarda Ishiyama</strong>. <br>
-- Tenho <strong>18 anos</strong>. <br>
-- Moro em <strong>São José dos Campos - São Paulo (Brasil)</strong>. <br>
-- No <strong>Ensino Fundamental</strong> estudei na <strong>E.M.E.F. Profª Jacyra Vieira Baracho</strong>. <br>
-- No <strong>Ensino Médio</strong> estudei no <strong>Colégio Embraer Juarez Wanderley</strong> com <strong>bolsa integral</strong>.
+- Me chamo **Millene Eduarda Ishiyama**.
+- Tenho **18 anos**.
+- Moro em **São José dos Campos - São Paulo (Brasil)**.
+- No **Ensino Fundamental** estudei na **E.M.E.F. Profª Jacyra Vieira Baracho**.
+- No **Ensino Médio** estudei no **Colégio Embraer Juarez Wanderley** com **bolsa integral**.
 
 ### Vida profissional 💻
-- Comecei a estudar <strong>Programação</strong> em <strong>maio de 2022</strong>. <br>
-- Minhas experiências no <strong>LinkedIn</strong> (https://www.linkedin.com/in/miishiyama/).
+- Comecei a estudar **Programação** em **maio de 2022**.
+- Minhas experiências no **LinkedIn** (https://www.linkedin.com/in/miishiyama/).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miishiyama&layout=compact&theme=jolly" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api?username=miishiyama&count_private=true&show_icons=true&theme=jolly" width="48%" />
